@@ -14,7 +14,7 @@ If you have deployed or plan to deploy the VMware Validated Design, you can use 
 The set includes:
 
 * Standard Architecture
-    * Management Domain (Dual-Region and Multi-AZ).
+    * Management Domain (Single-Region and Multi-AZ).
     * Workload Domain - Virtual Infrastructure (Single-Region and Multi-AZ).
     * Cloud Operations and Automation (Single-Region and Multi-AZ).
 
