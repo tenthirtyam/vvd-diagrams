@@ -5,7 +5,7 @@
 
 > **IMPORTANT**: THIS PROJECT IS ARCHIVED.<br/>
 >
-> VMware Validated Design has been discontinued after VMware Validated Design 6.2 and VMware Cloud Foundation 4.2. Starting with VMware Cloud Foundation 4.3, the guidance for the SDDC components natively supported by the VMware Cloud Foundation automation has moved to the VMware Cloud Foundation documentation and the guidance for the solutions on top of VMware Cloud Foundation is now published under a new class of technical reference implementations called VMware Validated Solutions.For full information on VMware Validated Solutions visit [vmware.com/go/vvs](https://vmware.com/go/vvs).
+> VMware Validated Design has been discontinued after VMware Validated Design 6.2 and VMware Cloud Foundation 4.2. Starting with VMware Cloud Foundation 4.3, the guidance for the SDDC components natively supported by the VMware Cloud Foundation automation has moved to the VMware Cloud Foundation documentation and the guidance for the solutions on top of VMware Cloud Foundation is now published under a new class of technical reference implementations called VMware Validated Solutions. For full information on VMware Validated Solutions visit [vmware.com/go/vvs](https://vmware.com/go/vvs).
 
 # VMware Validated Design 6.2.0
 
